@@ -1,0 +1,2 @@
+# ffmclip
+ffmpeg clip thingie
